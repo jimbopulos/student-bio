@@ -2,6 +2,8 @@ body {
     background-color: #efeee7;
     font-family: Georgia, "Times New Roman", Times, serif;
     color: #333333;
+    font-size: 18px;
+    line-height: 150%;
     margin: 0;
     padding: 0;
 }
